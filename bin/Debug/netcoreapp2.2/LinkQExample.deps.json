@@ -1,0 +1,96 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "2f9f6d1881595ba8c94f8ed3c00b8d0fb3fbde05"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "LinkQExample/1.0.0": {
+        "dependencies": {
+          "Apache.Ignite": "2.7.5",
+          "Apache.Ignite.Linq": "2.7.5",
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "LinkQExample.dll": {}
+        }
+      },
+      "Apache.Ignite/2.7.5": {
+        "runtime": {
+          "lib/net40/Apache.Ignite.Core.dll": {
+            "assemblyVersion": "2.7.5.38033",
+            "fileVersion": "2.7.5.38033"
+          },
+          "lib/net40/Apache.Ignite.exe": {
+            "assemblyVersion": "2.7.5.38033",
+            "fileVersion": "2.7.5.38033"
+          }
+        }
+      },
+      "Apache.Ignite.Linq/2.7.5": {
+        "dependencies": {
+          "Apache.Ignite": "2.7.5",
+          "Remotion.Linq": "2.0.1"
+        },
+        "runtime": {
+          "lib/net40/Apache.Ignite.Linq.dll": {
+            "assemblyVersion": "2.7.5.38033",
+            "fileVersion": "2.7.5.38033"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "Remotion.Linq/2.0.1": {
+        "runtime": {
+          "lib/net45/Remotion.Linq.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinkQExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Apache.Ignite/2.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jNciNsSqwmHYKNshUOpsF3QSCfhfW8FIq6VDuU9Ro85JqWw9kmiFKJ7g5huM1NnEJUrV7U3guAwsHs4nF78d2A==",
+      "path": "apache.ignite/2.7.5",
+      "hashPath": "apache.ignite.2.7.5.nupkg.sha512"
+    },
+    "Apache.Ignite.Linq/2.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f+GMzqAoydpnzzfV0Elh0ibL0qKJ9mUmeK3c/fMNcDeQi5KCfo8HKMeEUormG3ydwmuLszYTFWd5CbX8NbQ3qw==",
+      "path": "apache.ignite.linq/2.7.5",
+      "hashPath": "apache.ignite.linq.2.7.5.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "Remotion.Linq/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SIO6HDH6CU9GC2IZGBrc6q5X5vRhfatXrg9cVavCEG9W6v5e88b+vXjmLGQEorch4sYEIImRr+ODyUMyrmrqAg==",
+      "path": "remotion.linq/2.0.1",
+      "hashPath": "remotion.linq.2.0.1.nupkg.sha512"
+    }
+  }
+}

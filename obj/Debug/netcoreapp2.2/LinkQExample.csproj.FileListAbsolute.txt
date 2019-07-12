@@ -1,0 +1,11 @@
+D:\projects\R&D\LinkQExample\bin\Debug\netcoreapp2.2\LinkQExample.deps.json
+D:\projects\R&D\LinkQExample\bin\Debug\netcoreapp2.2\LinkQExample.runtimeconfig.json
+D:\projects\R&D\LinkQExample\bin\Debug\netcoreapp2.2\LinkQExample.runtimeconfig.dev.json
+D:\projects\R&D\LinkQExample\bin\Debug\netcoreapp2.2\LinkQExample.dll
+D:\projects\R&D\LinkQExample\obj\Debug\netcoreapp2.2\LinkQExample.csprojAssemblyReference.cache
+D:\projects\R&D\LinkQExample\obj\Debug\netcoreapp2.2\LinkQExample.csproj.CoreCompileInputs.cache
+D:\projects\R&D\LinkQExample\obj\Debug\netcoreapp2.2\LinkQExample.AssemblyInfoInputs.cache
+D:\projects\R&D\LinkQExample\obj\Debug\netcoreapp2.2\LinkQExample.AssemblyInfo.cs
+D:\projects\R&D\LinkQExample\bin\Debug\netcoreapp2.2\LinkQExample.pdb
+D:\projects\R&D\LinkQExample\obj\Debug\netcoreapp2.2\LinkQExample.dll
+D:\projects\R&D\LinkQExample\obj\Debug\netcoreapp2.2\LinkQExample.pdb
